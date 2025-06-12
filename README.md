@@ -1,3 +1,5 @@
+API REST para gerenciar uma biblioteca contendo CRUD de autores, livros e editoras desenvolvido em .net 7.
+
 Configuração da connection string (exemplo local com SQL Server)
 Após clonar o repositório, execute:
 
